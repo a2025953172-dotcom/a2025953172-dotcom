@@ -1,49 +1,33 @@
-<h1>👤 Samuel Vieira</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Samuel+Vieira+%F0%9F%91%8B;Estudante+do+Coltec+%F0%9F%8E%93;Aprendendo+Python%2C+Java+e+C+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
 
-<p>
-  <img src="https://img.shields.io/badge/Estudante-Coltec-blue?style=flat-square" />
+- 🎓 Sou **estudante do Coltec**
+- 🐍 Trabalho com **Python, Java e C**
+- 🌐 Uso **Flask** e **SQLite** nos meus projetos
+- 📦 Aqui vou compartilhar projetos legais que eu fizer na escola, além de alguns projetos pessoais
+- ⚡ Sempre aprendendo algo novo
+
+<br>
+
+<h3 align="center">🧩 Linguagens e Tecnologias</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,flask,sqlite" />
 </p>
 
-Me chamo Samuel Vieira, sou estudante do **Coltec**. Aqui vou compartilhar projetos legais que eu fizer na escola, além de alguns projetos pessoais. 🚀
+<br>
 
----
-
-### 🧩 Linguagens e Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"/>
+<h3 align="center">📊 Estatísticas</h3>
+<p align="center">
+  <!-- Troque SEU_USUARIO pelo seu usuário do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
----
+<br>
 
-### 📊 Estatísticas
-
-<table>
-  <tr>
-    <td><img src="./assets/stats-card.svg" alt="Estatísticas do GitHub" /></td>
-    <td><img src="./assets/tech-card.svg" alt="Tecnologias" /></td>
-  </tr>
-</table>
-
-> Os números acima são exemplo — atualize com seus dados reais quando quiser (ou me peça e eu recalculo/ajusto).
-
----
-
-### 📌 Projetos em destaque
-
-<!-- Troque REPO pelo nome do repositório que quiser destacar -->
-<p>
-  <a href="https://github.com/SEU_USUARIO/REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO&theme=radical&hide_border=true" />
-  </a>
+<h3 align="center">🐍 Snake da minha contribuição</h3>
+<p align="center">
+  <!-- Essa imagem só aparece depois que a Action rodar (ver instruções abaixo) -->
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-### 📫 Contato
-
-Fique à vontade para dar uma olhada nos meus repositórios!
