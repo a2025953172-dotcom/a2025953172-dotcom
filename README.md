@@ -39,10 +39,9 @@ Tenho experiência com **Java, Python e C**, além de explorar tecnologias como 
 
 Este perfil reúne minha evolução ao longo da formação técnica, desde fundamentos de programação e estruturas de dados até projetos de software mais completos.
 
-
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=java,python,c&perline=1" />
 
@@ -50,7 +49,7 @@ Este perfil reúne minha evolução ao longo da formação técnica, desde funda
 
 <img src="https://skillicons.dev/icons?i=flask,sqlite,processing&perline=1" />
 
-<br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/COLTEC%20%2F%20UFMG-161B22?style=for-the-badge"/>
 
@@ -62,6 +61,7 @@ Este perfil reúne minha evolução ao longo da formação técnica, desde funda
 
 </tr>
 </table>
+
 
 ---
 
@@ -274,89 +274,52 @@ Controle de versão, desenvolvimento colaborativo e ferramentas de desenvolvimen
 
 ---
 
-## Abordagem de Desenvolvimento
 
-<div align="center">
+---
 
-<table>
+## Contato
+
+<table align="center">
 <tr>
 
-<td width="25%" align="center">
+<td align="center" valign="middle">
 
-### 01
-
-<br>
-
-<img src="https://img.shields.io/badge/APRENDER-161B22?style=for-the-badge"/>
-
-<br><br>
-
-Entender os fundamentos antes de utilizar uma tecnologia.
+<a href="https://github.com/a2025953172-dotcom">
+<img src="https://img.shields.io/badge/GitHub-a2025953172--dotcom-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="25%" align="center">
+<td width="20"></td>
 
-### 02
+<td align="center" valign="middle">
 
-<br>
-
-<img src="https://img.shields.io/badge/CONSTRUIR-161B22?style=for-the-badge"/>
-
-<br><br>
-
-Aplicar o conhecimento criando projetos práticos.
+<a href="https://www.instagram.com/sv30065/">
+<img src="https://img.shields.io/badge/Instagram-sv30065-161B22?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="25%" align="center">
+<td width="20"></td>
 
-### 03
+<td align="center" valign="middle">
 
-<br>
-
-<img src="https://img.shields.io/badge/EXPERIMENTAR-161B22?style=for-the-badge"/>
-
-<br><br>
-
-Explorar diferentes soluções e abordagens.
-
-</td>
-
-<td width="25%" align="center">
-
-### 04
-
-<br>
-
-<img src="https://img.shields.io/badge/MELHORAR-161B22?style=for-the-badge"/>
-
-<br><br>
-
-Analisar o que foi desenvolvido e aprimorá-lo.
+<a href="mailto:a2025953172@teiacoltec.org">
+<img src="https://img.shields.io/badge/a2025953172%40teiacoltec.org-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
----
-
-## Contato
+<br>
 
 <div align="center">
 
-<a href="https://github.com/a2025953172-dotcom">
-<img src="https://img.shields.io/badge/GitHub-a2025953172--dotcom-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,100:161B22&height=100&section=footer"/>
 
- 
-
-<a href="https://www.instagram.com/sv30065/">
-<img src="https://img.shields.io/badge/Instagram-sv30065-161B22?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+</div>
 
  
 
