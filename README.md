@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:30363D&height=180&section=header&text=Samuel%20Vieira&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Development%20Systems%20Student&descAlignY=58&descSize=18&descColor=8B949E"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:30363D&height=180&section=header&text=Samuel%20Vieira&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18&descColor=8B949E"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+C;Flask+%7C+Processing+%7C+SQLite;Always+learning%2C+always+building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+C;Flask+%7C+Processing+%7C+SQLite;Sempre+aprendendo%2C+sempre+construindo." alt="Typing SVG"/>
 
 <br><br>
 
@@ -24,7 +24,7 @@
 
 ---
 
-## About
+## Sobre
 
 <table>
 <tr>
@@ -33,13 +33,13 @@
 
 ### Samuel Vieira
 
-Development Systems student at **COLTEC/UFMG**, interested in programming, software development and technology.
+Estudante de **Desenvolvimento de Sistemas no COLTEC/UFMG**, interessado em programação, desenvolvimento de software e tecnologia.
 
-My main languages are **Java, Python and C**. I also work with technologies such as **Flask, Processing and SQLite**, applying them to academic projects, experiments and personal development.
+Trabalho principalmente com **Java, Python e C**, além de explorar tecnologias como **Flask, Processing e SQLite**, aplicando-as em projetos acadêmicos, experimentos e projetos pessoais.
 
-This profile documents my progression throughout technical education, from programming fundamentals and data structures to larger software projects.
+Este perfil reúne minha evolução ao longo da formação técnica, desde fundamentos de programação e estruturas de dados até projetos de software mais completos.
 
-I believe the best way to learn a technology is to understand it, build with it, break things, fix them and build again.
+Acredito que a melhor forma de aprender uma tecnologia é entendê-la, construir com ela, testar diferentes possibilidades, corrigir os problemas e continuar desenvolvendo.
 
 </td>
 
@@ -57,7 +57,7 @@ I believe the best way to learn a technology is to understand it, build with it,
 
 <br>
 
-<img src="https://img.shields.io/badge/Development%20Systems-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-161B22?style=for-the-badge"/>
 
 </td>
 
@@ -66,11 +66,11 @@ I believe the best way to learn a technology is to understand it, build with it,
 
 ---
 
-## Languages & Technologies
+## Linguagens e Tecnologias
 
 <div align="center">
 
-### Programming Languages
+### Linguagens de Programação
 
 <br>
 
@@ -78,7 +78,7 @@ I believe the best way to learn a technology is to understand it, build with it,
 
 <br><br><br>
 
-### Frameworks, Databases & Tools
+### Frameworks, Bancos de Dados e Ferramentas
 
 <br>
 
@@ -88,7 +88,7 @@ I believe the best way to learn a technology is to understand it, build with it,
 
 ---
 
-## GitHub Statistics
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -108,7 +108,7 @@ I believe the best way to learn a technology is to understand it, build with it,
 
 ---
 
-## Technical Focus
+## Foco Técnico
 
 <table>
 <tr>
@@ -123,7 +123,7 @@ I believe the best way to learn a technology is to understand it, build with it,
 
 </div>
 
-Object-oriented programming, application architecture, classes, inheritance and project development.
+Programação orientada a objetos, lógica de aplicações, arquitetura, classes, herança e desenvolvimento de projetos.
 
 </td>
 
@@ -137,7 +137,7 @@ Object-oriented programming, application architecture, classes, inheritance and 
 
 </div>
 
-Programming, automation, experimentation, scripting and web development with Flask.
+Programação, automação, experimentação, scripts e desenvolvimento web com Flask.
 
 </td>
 
@@ -151,7 +151,7 @@ Programming, automation, experimentation, scripting and web development with Fla
 
 </div>
 
-Programming fundamentals, algorithms, pointers, memory management and data structures.
+Fundamentos de programação, algoritmos, ponteiros, gerenciamento de memória e estruturas de dados.
 
 </td>
 
@@ -169,7 +169,7 @@ Programming fundamentals, algorithms, pointers, memory management and data struc
 
 </div>
 
-Backend development and web applications using Python.
+Desenvolvimento de back-end e aplicações web utilizando Python.
 
 </td>
 
@@ -183,7 +183,7 @@ Backend development and web applications using Python.
 
 </div>
 
-Graphical interfaces, creative programming and interactive applications.
+Interfaces gráficas, programação criativa e aplicações interativas.
 
 </td>
 
@@ -197,7 +197,7 @@ Graphical interfaces, creative programming and interactive applications.
 
 </div>
 
-Relational databases, SQL queries and persistent application data.
+Bancos de dados relacionais, consultas SQL e persistência de dados.
 
 </td>
 
@@ -206,65 +206,65 @@ Relational databases, SQL queries and persistent application data.
 
 ---
 
-## Projects
+## Projetos
 
 <div align="center">
 
 <table>
 <tr>
-<th>Project</th>
-<th>Technology</th>
-<th>Focus</th>
+<th>Projeto</th>
+<th>Tecnologia</th>
+<th>Foco</th>
 </tr>
 
 <tr>
-<td>Academic Software Projects</td>
+<td>Projetos Acadêmicos de Software</td>
 <td><img src="https://skillicons.dev/icons?i=java" width="32"/></td>
-<td>Object-oriented programming</td>
+<td>Programação orientada a objetos</td>
 </tr>
 
 <tr>
-<td>Algorithms & Data Structures</td>
+<td>Algoritmos e Estruturas de Dados</td>
 <td><img src="https://skillicons.dev/icons?i=c" width="32"/></td>
-<td>Algorithms, pointers and memory management</td>
+<td>Algoritmos, ponteiros e gerenciamento de memória</td>
 </tr>
 
 <tr>
-<td>Python Applications</td>
+<td>Aplicações em Python</td>
 <td><img src="https://skillicons.dev/icons?i=python" width="32"/></td>
-<td>Programming and automation</td>
+<td>Programação e automação</td>
 </tr>
 
 <tr>
-<td>Web Applications</td>
+<td>Aplicações Web</td>
 <td><img src="https://skillicons.dev/icons?i=flask" width="32"/></td>
-<td>Backend and web development</td>
+<td>Back-end e desenvolvimento web</td>
 </tr>
 
 <tr>
-<td>Database Systems</td>
+<td>Sistemas de Banco de Dados</td>
 <td><img src="https://skillicons.dev/icons?i=sqlite" width="32"/></td>
-<td>SQL and data persistence</td>
+<td>SQL e persistência de dados</td>
 </tr>
 
 </table>
 
 <br>
 
-<img src="https://img.shields.io/badge/More%20projects%20coming%20soon-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mais%20projetos%20em%20breve-161B22?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Currently Learning
+## Atualmente Estudando
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### Programming
+### Programação
 
 <br>
 
@@ -272,17 +272,17 @@ Relational databases, SQL queries and persistent application data.
 
 <br><br>
 
-Deepening knowledge in programming fundamentals, object-oriented programming and problem solving.
+Aprofundando conhecimentos em fundamentos de programação, programação orientada a objetos e resolução de problemas.
 
 </td>
 
 <td width="50%" valign="top">
 
-### Software Development
+### Desenvolvimento de Software
 
 <br>
 
-Algorithms, data structures, databases, software architecture and application development.
+Algoritmos, estruturas de dados, bancos de dados, arquitetura de software e desenvolvimento de aplicações.
 
 </td>
 
@@ -292,7 +292,7 @@ Algorithms, data structures, databases, software architecture and application de
 
 <td width="50%" valign="top">
 
-### Web Development
+### Desenvolvimento Web
 
 <br>
 
@@ -300,13 +300,13 @@ Algorithms, data structures, databases, software architecture and application de
 
 <br><br>
 
-Learning backend development and building web applications with Python.
+Aprendendo desenvolvimento back-end e criação de aplicações web utilizando Python.
 
 </td>
 
 <td width="50%" valign="top">
 
-### Development Tools
+### Ferramentas de Desenvolvimento
 
 <br>
 
@@ -314,7 +314,7 @@ Learning backend development and building web applications with Python.
 
 <br><br>
 
-Version control, collaborative development and development workflows.
+Controle de versão, desenvolvimento colaborativo e ferramentas de desenvolvimento.
 
 </td>
 
@@ -323,7 +323,7 @@ Version control, collaborative development and development workflows.
 
 ---
 
-## Development Approach
+## Abordagem de Desenvolvimento
 
 <div align="center">
 
@@ -336,11 +336,11 @@ Version control, collaborative development and development workflows.
 
 <br>
 
-<img src="https://img.shields.io/badge/LEARN-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/APRENDER-161B22?style=for-the-badge"/>
 
 <br><br>
 
-Understand the fundamentals before using a technology.
+Entender os fundamentos antes de utilizar uma tecnologia.
 
 </td>
 
@@ -350,11 +350,11 @@ Understand the fundamentals before using a technology.
 
 <br>
 
-<img src="https://img.shields.io/badge/BUILD-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CONSTRUIR-161B22?style=for-the-badge"/>
 
 <br><br>
 
-Apply knowledge by creating practical projects.
+Aplicar o conhecimento criando projetos práticos.
 
 </td>
 
@@ -364,11 +364,11 @@ Apply knowledge by creating practical projects.
 
 <br>
 
-<img src="https://img.shields.io/badge/EXPERIMENT-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPERIMENTAR-161B22?style=for-the-badge"/>
 
 <br><br>
 
-Explore different solutions and approaches.
+Explorar diferentes soluções e abordagens.
 
 </td>
 
@@ -378,11 +378,11 @@ Explore different solutions and approaches.
 
 <br>
 
-<img src="https://img.shields.io/badge/IMPROVE-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MELHORAR-161B22?style=for-the-badge"/>
 
 <br><br>
 
-Analyze what was built and improve it.
+Analisar o que foi desenvolvido e aprimorá-lo.
 
 </td>
 
@@ -393,7 +393,7 @@ Analyze what was built and improve it.
 
 ---
 
-## Contact
+## Contato
 
 <div align="center">
 
