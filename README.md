@@ -35,11 +35,10 @@
 
 Estudante de **Desenvolvimento de Sistemas no COLTEC/UFMG**, interessado em programação, desenvolvimento de software e tecnologia.
 
-Trabalho principalmente com **Java, Python e C**, além de explorar tecnologias como **Flask, Processing e SQLite**, aplicando-as em projetos acadêmicos, experimentos e projetos pessoais.
+Tenho experiência com **Java, Python e C**, além de explorar tecnologias como **Flask, Processing e SQLite**, em projetos acadêmicos, experimentos e projetos pessoais.
 
 Este perfil reúne minha evolução ao longo da formação técnica, desde fundamentos de programação e estruturas de dados até projetos de software mais completos.
 
-Acredito que a melhor forma de aprender uma tecnologia é entendê-la, construir com ela, testar diferentes possibilidades, corrigir os problemas e continuar desenvolvendo.
 
 </td>
 
