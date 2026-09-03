@@ -1,5 +1,24 @@
 <div align="center">
 
+<a href="https://github.com/a2025953172-dotcom">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+  
+
+<a href="https://www.instagram.com/sv30065/">
+<img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+  
+
+<a href="mailto:a2025953172@teiacoltec.org">
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:30363D&height=180&section=header&text=Samuel%20Vieira&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18&descColor=8B949E"/>
 
 <br>
