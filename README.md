@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:30363D&height=180&section=header&text=Samuel%20Vieira&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18&descColor=8B949E"/>
 
 <br>
@@ -10,38 +8,19 @@
 
 <br><br>
 
-<table align="center">
-<tr>
-
-<td align="center">
 <a href="https://github.com/a2025953172-dotcom">
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</td>
-
-<td width="20"></td>
-
-<td align="center">
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/sv30065/">
 <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</td>
-
-<td width="20"></td>
-
-<td align="center">
+&nbsp;&nbsp;
 <a href="mailto:a2025953172@teiacoltec.org">
 <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</td>
-
-</tr>
-</table>
 
 </div>
-
----
-
 
 ---
 
@@ -50,7 +29,7 @@
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="65%" valign="middle">
 
 ### Samuel Vieira
 
@@ -60,16 +39,31 @@ Tenho experiência com **Java, Python e C**, além de explorar tecnologias como 
 
 Este perfil reúne minha evolução ao longo da formação técnica, desde fundamentos de programação e estruturas de dados até projetos de software mais completos.
 
-
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=java,python,c&perline=1" />
+<table>
+<tr>
+<td align="center">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=java,python,c&perline=3"/>
 
-<img src="https://skillicons.dev/icons?i=flask,sqlite,processing&perline=1" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=flask,sqlite,processing&perline=3"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 <br><br>
 
@@ -78,6 +72,10 @@ Este perfil reúne minha evolução ao longo da formação técnica, desde funda
 <br>
 
 <img src="https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-161B22?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -226,9 +224,6 @@ Bancos de dados relacionais, consultas SQL e persistência de dados.
 
 ---
 
-
----
-
 ## Atualmente Estudando
 
 <table>
@@ -295,9 +290,6 @@ Controle de versão, desenvolvimento colaborativo e ferramentas de desenvolvimen
 
 ---
 
-
----
-
 ## Contato
 
 <div align="center">
@@ -306,13 +298,13 @@ Controle de versão, desenvolvimento colaborativo e ferramentas de desenvolvimen
 <img src="https://img.shields.io/badge/GitHub-a2025953172--dotcom-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
- 
+  
 
 <a href="https://www.instagram.com/sv30065/">
 <img src="https://img.shields.io/badge/Instagram-sv30065-161B22?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
- 
+  
 
 <a href="mailto:a2025953172@teiacoltec.org">
 <img src="https://img.shields.io/badge/a2025953172%40teiacoltec.org-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
