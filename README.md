@@ -22,15 +22,14 @@ Me chamo Samuel Vieira, sou estudante do **Coltec**. Aqui vou compartilhar proje
 
 ### 📊 Estatísticas
 
-<!-- Troque SEU_USUARIO pelo seu usuário do GitHub -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
+<table>
+  <tr>
+    <td><img src="./assets/stats-card.svg" alt="Estatísticas do GitHub" /></td>
+    <td><img src="./assets/tech-card.svg" alt="Tecnologias" /></td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true" />
-</p>
+> Os números acima são exemplo — atualize com seus dados reais quando quiser (ou me peça e eu recalculo/ajusto).
 
 ---
 
